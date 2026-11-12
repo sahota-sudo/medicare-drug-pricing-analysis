@@ -66,7 +66,7 @@ git clone https://github.com/<your-username>/medicare-drug-pricing-analysis.git
 cd medicare-drug-pricing-analysis
 pip install -r requirements.txt
 
-make test      # 54 tests, no database required
+make test      # 59 tests, no database required
 make analysis  # regenerates docs/findings.md, docs/data_quality.md and all charts
 ```
 
@@ -161,7 +161,7 @@ src/cms/
         pipeline.py   raw files → warehouse-ready frames
         load.py       CLI: apply DDL, load, verify
         analysis.py   the analysis, charts, and findings.md
-tests/  54 tests across extraction, transforms, class definitions and the SQL
+tests/  59 tests across extraction, transforms, class definitions and the SQL
 ```
 
 **The SQL is tested.** `tests/test_sql_views.py` loads the real CMS data into
