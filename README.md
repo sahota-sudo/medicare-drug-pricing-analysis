@@ -1,4 +1,5 @@
 # Medicare Drug Pricing Analysis
+![CI](https://github.com/sahota-sudo/medicare-drug-pricing-analysis/actions/workflows/ci.yml/badge.svg)
 
 What happens to a drug class when competitors arrive — measured on real
 Medicare claims data rather than modeled.
