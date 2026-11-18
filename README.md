@@ -22,6 +22,8 @@ The headline finding is methodological, and it changes the answer:
 
 ## What it found
 
+**[Interactive dashboard on Tableau Public →](https://public.tableau.com/shared/J84RT9R9H?:display_count=n&:origin=viz_share_link)**
+
 **Normalizing the price axis reorders the market.** Faricimab is billed per
 0.1 mg and dosed at 6 mg, so its published figure of $34 per unit is 60 units
 away from a $2,068 dose. Aflibercept, billed per 1 mg and dosed at 2 mg, looks
